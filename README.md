@@ -45,6 +45,7 @@ Create nodes for inputs and outputs to generate the timing diagram.
 For different input combinations generate the timing diagram
 
 **PROGRAM**
+
 /* 
 Program for flipflops and verify its truth table in quartus using Verilog programming. Developed by: 
 RegisterNumber: 212223110058
